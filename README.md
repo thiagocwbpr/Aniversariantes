@@ -2,7 +2,7 @@
 
 ## Descrição
 
-### Este projeto representa meu Trabalho de Conclusão de Curso de Engenharia de Software da Unicesumar.
+### Este projeto representa meu Trabalho de Conclusão de Curso no qual sou aluno do curso de Engenharia de Software da Unicesumar.
 
 Titulo: Aniversariantes Corporativos: Um sistema para fortalecer a integração e valorizar os colaboradores na empresa
 
