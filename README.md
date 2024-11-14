@@ -16,9 +16,8 @@ Consiste em um sistema web para a gestão de aniversariantes nas empresas. O obj
 
 ## Funcionalidades
 
-- Cadastro de colaboradores com informações como nome, data de nascimento e cargo no banco de dados MySql.
+- Informações dos colaboradores como nome, data de nascimento e cargo no banco de dados MySql.
 - Visualização dos aniversariantes do dia e do mês.
-- Geração de relatórios personalizados sobre os aniversariantes.
 
 ## Requisitos do Sistema
 
